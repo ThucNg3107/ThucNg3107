@@ -29,17 +29,47 @@
 ---
 
 ## 📊 GitHub Analytics
+# 👋 Hey, I'm Thục Nguyễn
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThucNg3107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThucNg3107&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucNg3107&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+**Backend Developer (in progress)**
 
 ---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+TypeScript • React • Next.js • TailwindCSS
+
+### ⚙️ Backend
+
+Node.js • Express.js
+
+### 💾 Databases
+
+MongoDB • MySQL
+
+### ☁️ DevOps & Infra
+
+Linux • Docker (learning)
+
+### 🛠️ Tools
+
+Git • GitHub • Postman • VSCode
+
+---
+
+## 📫 Contact
+
+* Email: [thucnguyenhien102@gmail.com](mailto:thucnguyenhien102@gmail.com)
+* GitHub: https://github.com/ThucNg3107
+
+---
+
+## ⭐ Open for Opportunities
+
+📍 Ho Chi Minh City, Vietnam
+
 
 ## 📈 Contribution Graph
 
