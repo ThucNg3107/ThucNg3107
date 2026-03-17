@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Thục Nguyễn**
-
-### Backend Developer in Progress | Web Development Learner | Database Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Th%E1%BB%A5c+Nguy%E1%BB%85n;Backend+Developer+in+Progress;Web+Development+Learner;Database+Enthusiast" />
 
 </div>
 
