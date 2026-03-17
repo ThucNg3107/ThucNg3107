@@ -1,63 +1,86 @@
 <div align="center">
 
-# Thục Nguyễn
+# 👋 Hey, I'm **Thục Nguyễn**
 
-### Backend • Database • Web Development
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Backend+Developer+in+progress;Focused+on+Node.js+%26+MongoDB;Learning+by+building+real+projects" alt="Typing SVG" />
+### Backend Developer in Progress | Web Development Learner | Database Enthusiast
 
 </div>
 
-<br>
+---
 
-## About
+## 💻 Tech Stack
 
-I'm an IT student based in Ho Chi Minh City, Vietnam, currently focusing on backend development, databases, and web technologies.  
-I enjoy learning through projects and improving my skills step by step.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="200" valign="top">
+      <h3>🎨 Frontend</h3>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200" valign="top">
+      <h3>⚙️ Backend</h3>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200" valign="top">
+      <h3>💾 Databases</h3>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200" valign="top">
+      <h3>☁️ Tools</h3>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Stack
+## 📫 Let's Connect
 
-**Frontend**  
-`HTML` `CSS` `JavaScript` `React` `TailwindCSS`
+<div align="center">
 
-**Backend**  
-`Node.js` `Express.js`
+<a href="mailto:thucnguyenhien102@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/ThucNg3107">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-**Database**  
-`MongoDB` `MySQL`
-
-**Tools**  
-`Git` `GitHub` `Postman` `VS Code` `Docker`
-
----
-
-## Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThucNg3107&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucNg3107&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-- Building strong backend fundamentals
-- Learning database design and API development
-- Creating more real-world projects
-- Growing toward full-stack development
+### ⭐ Open for Internship & Learning Opportunities
 
----
+**📍 Ho Chi Minh City, Vietnam**
 
-## Contact
-
-- Email: thucnguyenhien102@gmail.com
-- GitHub: [ThucNg3107](https://github.com/ThucNg3107)
+</div>
 
 ---
-
-<p align="center">
-  <b>Code • Learn • Build • Repeat</b>
-</p>
