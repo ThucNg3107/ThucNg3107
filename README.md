@@ -2,7 +2,16 @@
 
 # 👋 Hey, I'm Thục Nguyễn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Database+%7C+Web+Development;Learning+every+day+and+building+cool+stuff+🚀" alt="Typing SVG" />
+### Backend Developer in Progress
+
+<p>
+  Passionate about building clean backend systems, working with databases,  
+  and growing into a strong full-stack developer.
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+progress;Learning+Node.js+and+MongoDB;Building+projects+and+improving+every+day" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -10,108 +19,53 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Student from Vietnam
-- 💻 Interested in **Full-stack Development**
-- 🧠 Currently learning **Node.js, MongoDB, React**
-- 🔥 Goal: Become a strong **Software Engineer**
-- ⚡ I enjoy building, learning, and improving every day
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,cs,java" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-# 👋 Hey, I'm Thục Nguyễn
-
-**Backend Developer (in progress)**
+- 🎓 IT Student from Ho Chi Minh City, Vietnam
+- 💻 Interested in backend development and databases
+- 🌱 Currently learning Node.js, MongoDB, Express.js
+- 🎯 Goal: become a strong software engineer
+- ⚡ Focused on consistency, projects, and real growth
 
 ---
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-TypeScript • React • Next.js • TailwindCSS
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### ⚙️ Backend
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-Node.js • Express.js
-
-### 💾 Databases
-
-MongoDB • MySQL
-
-### ☁️ DevOps & Infra
-
-Linux • Docker (learning)
-
-### 🛠️ Tools
-
-Git • GitHub • Postman • VSCode
-
----
-
-## 📫 Contact
-
-* Email: [thucnguyenhien102@gmail.com](mailto:thucnguyenhien102@gmail.com)
-* GitHub: https://github.com/ThucNg3107
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## ⭐ Open for Opportunities
-
-📍 Ho Chi Minh City, Vietnam
-
-
-## 📈 Contribution Graph
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThucNg3107&theme=tokyo-night&hide_border=true&area=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThucNg3107&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucNg3107&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThucNg3107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## 🌌 Developer Vibes
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:thucnguyenhien102@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ThucNg3107">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThucNg3107&theme=github-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -119,7 +73,7 @@ Git • GitHub • Postman • VSCode
 ## 🎯 Current Focus
 
 ```text
-- Building more projects
-- Improving backend skills
-- Learning databases deeply
-- Becoming better every single day
+• Building backend projects
+• Practicing database design
+• Improving problem-solving skills
+• Becoming better every single day
