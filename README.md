@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Thục Nguyễn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Database+%7C+Web+Development;Learning+every+day+and+building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Database+%7C+Web+Development;Learning+every+day+and+building+cool+stuff+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -31,16 +31,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThucNg3107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThucNg3107&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThucNg3107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThucNg3107&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucNg3107&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucNg3107&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
